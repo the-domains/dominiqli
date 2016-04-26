@@ -1,7 +1,7 @@
 name: dominiqli
 favicon: null
-layout_spectrum: 0.3974447827786207
-typography_spectrum: 0.7082570700440556
+layout_spectrum: 0.75177
+typography_spectrum: 0.94451
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#272121'
+    - '#353034'
+    - '#100a0a'
+    - '#3d3c41'
+    - '#4e494b'
   brandStrength: 0.5
   lightness: 0.749375787563622
   saturation: 0
